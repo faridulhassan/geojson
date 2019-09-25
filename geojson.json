@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40,
+            35
+          ],
+          [
+            -120,
+            55
+          ]
+        ]
+      },
+      "properties": {
+        "stroke": "red",
+        "stroke-width": 10,
+        "stroke-opacity": 0.5
+      }
+    }
+  ]
+}
